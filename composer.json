@@ -20,7 +20,7 @@
         "ext-xml": "*",
         "symfony/dependency-injection": "^4.4|^5.0|^6.0|^7.0",
         "symfony/http-kernel": "^4.4|^5.0|^6.0|^7.0",
-        "symfony/security-acl": "^3.0",
+        "symfony/security-acl": "^3.0|dev-feature/dbal4-compatibility",
         "symfony/security-bundle": "^4.4|^5.0|^6.0|^7.0"
     },
     "require-dev": {
